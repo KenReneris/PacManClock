@@ -1,0 +1,23 @@
+
+
+https://www.instructables.com/id/RGB-LED-Matrix-With-an-ESP8266/
+
+https://github.com/2dom/PxMatrix
+
+PinOut
+
+	0 - D7		0 - 
+	1 - 		1 - 
+	2 - 		2 - 
+	3 -  		3 - 
+	4 - D1		4 - D2
+	5 - D8		5 - 
+	6 - D5		6 - D0
+	7 - D4		7 - GND
+
+
+
+
+
+
+

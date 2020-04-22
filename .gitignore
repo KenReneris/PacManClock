@@ -1,0 +1,11 @@
+﻿
+# .gitignore
+
+**/x64/Debug
+**/x64/Release
+*.VC.db
+*.aps
+*.o
+*.user
+.vs/
+.vscode/
